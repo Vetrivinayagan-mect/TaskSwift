@@ -1,16 +1,32 @@
-# taskswift
+# TaskSwift
 
-A new Flutter project.
+TaskSwift is a simple and efficient task management app built using **Flutter**. It helps users organize their daily tasks with an intuitive and minimalistic UI. The app supports adding, deleting, and managing tasks efficiently using local storage.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- 📝 **Add Tasks** – Quickly add tasks to keep track of your to-do list.
+- ❌ **Delete Tasks** – Remove completed or unnecessary tasks with ease.
+- 💾 **Local Storage** – Uses **Hive** for fast and efficient task storage.
+- 🎨 **Minimal UI** – Designed with a clean and simple user interface.
+- ⚡ **Flutter Framework** – Built using Flutter for a smooth cross-platform experience.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+|--------------------Home Page--------------------|--------------------Add Task--------------------|--------------------Delete Task--------------------|
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="https://github.com/Vetrivinayagan-mect/TaskSwift/blob/master/TaskSwift_HomePage.jpg" width="30%" />
+  <img src="https://github.com/Vetrivinayagan-mect/TaskSwift/blob/master/TaskSwift_AddTask.jpg" width="30%" />
+  <img src="https://github.com/Vetrivinayagan-mect/TaskSwift/blob/master/TaskSwift_DeleteTask.jpg" width="30%" />
+</p>
+
+## Technologies Used
+
+- **Flutter** – Frontend framework for cross-platform development.
+- **Dart** – Programming language used for Flutter development.
+- **Hive** – Lightweight and fast key-value database for local storage.
+- **Provider** – State management solution for handling UI state efficiently.
+
+
+---
+Developed by **Vetri Vinayagan** 🚀
